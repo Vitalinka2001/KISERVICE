@@ -1,0 +1,22 @@
+@media screen and (max-width:1000px){
+      .text-aboutus{
+        display: flex;
+
+        flex-direction: column;
+        text-align: center;
+        color:antiquewhite;
+        /* border: 1px solid black; */
+        backdrop-filter: blur(5px);
+}
+.four{
+  flex-direction: column;
+}
+/* .navbar .menu-items{
+
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+} */
+}
